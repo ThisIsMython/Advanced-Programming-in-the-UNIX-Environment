@@ -5,7 +5,6 @@
 http://www.apuebook.com/code3e.html
 # apue.h
 > 编译安装源码包时遇到这个错误：undefined reference to `heapsort' \
-解决方法 \
-安装这两个包：\
+解决方法是安装这两个包：\
 yum install libbsd-xxx \
 yum install libbsd-dev-xxx
